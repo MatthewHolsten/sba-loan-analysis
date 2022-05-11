@@ -1,11 +1,10 @@
-#**Should This Loan Be Approved Or Denied: An Exploration Of Risk Classification Using SBA Loan Data**
+#Should This Loan Be Approved Or Denied: An Exploration Of Risk Classification Using SBA Loan Data
 
 ####Matt Holsten, Rob Pitkin
 ####Tufts University, CS-135 Machine Learning
 ####Spring 2022
 
 
-\
 
 # Description
 Abstract
