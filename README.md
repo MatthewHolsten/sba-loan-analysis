@@ -2,7 +2,7 @@
 
 Matt Holsten, Rob Pitkin\
 Tufts University, Spring 2022\
-CS-135 Machine Learning, Final Project\
+CS-135 Machine Learning, Final Project
 
 
 
