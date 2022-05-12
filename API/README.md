@@ -8,10 +8,10 @@ This API was created as part of our project [here]{https://github.com/MatthewHol
 &sba_loan_amt=X&sba_prop=X&term=X&jobs=X&ind_code=X&state=X&admin=X&density=X&recession=X"
 
 ### Inputs
->model:          neural-net model to use, state abbreviation or "country" (string)
-                NOTE: currently just "country" is available.
-loan_amt:       the total requested loan amount in USD (positive integer)
-sba_loan_amt:   the total guaranty from the SBA in USD (positive integer)
+>model:          neural-net model to use, state abbreviation or "country" (string)\
+                NOTE: currently just "country" is available.\
+loan_amt:       the total requested loan amount in USD (positive integer)\
+sba_loan_amt:   the total guaranty from the SBA in USD (positive integer)\
 sba_prop:       proportion of the loan_amt that the sba guarantees, values need not match (float)
 term:           loan payback length in months (positive integer)
 jobs:           total jobs retained from loan (positive integer)
