@@ -24,7 +24,7 @@ Example input:
 > https://matthewholsten.pythonanywhere.com/query/models/country/?loan_amt=509000&sba_loan_amt=122160&sba_prop=0.24&term=99&jobs=176&ind_code=474&state=SC&admin=r&density=rural&recession=false
 
 ### Outputs
->A nicely formatted JSON string will be returned with...\
+A nicely formatted JSON string will be returned with...\
 • The URL recieved.\
 • The values of all of the above inputs in "fields".\
 • A list of field names which had invalid input in "invalid_fields." These must be
