@@ -7,7 +7,7 @@ CS-135 Machine Learning, Final Project
 
 
 # Description
-Abstract
+The U.S. Small Business Administration ("SBA") has created a large dataset of SBA-guaranteed loans stretching back almost 60 years which documents the information and outcomes of loans. Due to the nature of the SBA and the successes they've helped create, there is an ever-growing desire to have additional risk information for predicting whether or not a borrowing-business will default on their loan. To address this desire, we first employed a feature analysis to discover which aspects of SBA-backed loans contribute most to the risk of defaulting. Then, we confirmed our analysis with two classification methods used to predict the outcomes of loans before they are granted: one linear, logistic regression model and one non-linear, feed-forward neural network. Lastly, we created a free, open source [API](https://matthewholsten.pythonanywhere.com/) and [web application](https://matthewholsten.github.io/sba-loan-risk-analysis-webapp/) to deploy our machine learning models. We find that there are 11 significant features which strongly indicate loan risk, with the loan term length having the highest correlation. We also find that both linear and non-linear models produce accuracies around $70\%$ and $80\%$ respectively, thereby demonstrating how our applications can serve as viable tools for SBA Loan Officers, lenders, and small businesses alike. A full deep dive and analysis can be seen in our formal NeurIPS-style [report]().
 
 # Work
 
