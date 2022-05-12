@@ -1,4 +1,4 @@
-# API Created for SBA Loan Risk Analyis
+# API Created for SBA Loan Risk Analyis Project
 
 ## Information
 This API was created as part of our project [here](https://github.com/MatthewHolsten/sba-loan-risk-analysis).
