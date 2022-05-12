@@ -1,9 +1,9 @@
 # API Created for SBA Loan Risk Analyis
 
-##Information
+## Information
 This API was created as part of our project [here]{https://github.com/MatthewHolsten/sba-loan-risk-analysis}.
 
-##Instructions
+## Instructions
 "https://matthewholsten.pythonanywhere.com/query/models/country/&loan_amt=X\
 &sba_loan_amt=X&sba_prop=X&term=X&jobs=X&ind_code=X&state=X&admin=X&density=X&recession=X"
 
