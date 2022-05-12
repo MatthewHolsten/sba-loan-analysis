@@ -6,8 +6,7 @@ This API was created as part of our project [here](https://github.com/MatthewHol
 ## Instructions
 
 Replace the X's in the following URL with the associated inputs below:
->https://matthewholsten.pythonanywhere.com/query/models/country/&loan_amt=X\
-&sba_loan_amt=X&sba_prop=X&term=X&jobs=X&ind_code=X&state=X&admin=X&density=X&recession=X
+>https://matthewholsten.pythonanywhere.com/query/models/country/&loan_amt=X&sba_loan_amt=X&sba_prop=X&term=X&jobs=X&ind_code=X&state=X&admin=X&density=X&recession=X
 
 
 ### Inputs
