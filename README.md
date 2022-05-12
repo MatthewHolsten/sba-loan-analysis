@@ -1,4 +1,4 @@
-# Should This Loan Be Approved Or Denied: An Exploration Of Risk Classification Using SBA Loan Data
+# Should This Loan Be Approved Or Denied: An Exploration Of Risk Classification Using U.S. Small Business Administration Loan Data
 
 Matt Holsten, Rob Pitkin\
 Tufts University, Spring 2022\
