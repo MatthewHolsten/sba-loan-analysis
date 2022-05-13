@@ -12,17 +12,27 @@ Replace the X's in the following URL with the associated inputs below:
 ### Inputs
 \
 **loan_amt**:       the total requested loan amount in USD (positive integer)\
-**sba_loan_amt**:   the total guaranty from the SBA in USD (positive integer)\
-**sba_prop**:       proportion of the loan_amt that the sba guarantees, values need not match (float)\
-**term**:           loan payback length in months (positive integer)\
-**jobs**:           total jobs retained from loan (positive integer)\
-**ind_code**:       first two digits of NAICS industry code (9 < positve integer < 100)\
-**state**:          2-Letter state abbreviation of loan location (string)\
-**model**:          neural-net model to use, state abbreviation or "country" (string) NOTE: currently just "country" is available.\
-**admin**:          political party of US president in office ('d' or 'r')\
-**density**:        population density ('urban', 'rural', or 'undefined')\
-**recession**:      whether or not loan is during recession ('true' or 'false')\
 \
+**sba_loan_amt**:   the total guaranty from the SBA in USD (positive integer)\
+\
+**sba_prop**:       proportion of the loan_amt that the sba guarantees, values need not match (float)\
+\
+**term**:           loan payback length in months (positive integer)\
+\
+**jobs**:           total jobs retained from loan (positive integer)\
+\
+**ind_code**:       first two digits of NAICS industry code (9 < positve integer < 100)\
+\
+**state**:          2-Letter state abbreviation of loan location (string)\
+\
+**model**:          neural-net model to use, state abbreviation or "country" (string) NOTE: currently just "country" is available.\
+\
+**admin**:          political party of US president in office ('d' or 'r')\
+\
+**density**:        population density ('urban', 'rural', or 'undefined')\
+\
+**recession**:      whether or not loan is during recession ('true' or 'false')\
+
 ##### Example input: 
 > https://matthewholsten.pythonanywhere.com/api/sba-loan-risk-analysis/query/?loan_amt=845000&sba_loan_amt=169000&sba_prop=0.2&term=27&jobs=227&ind_code=37&state=RI&model=country&admin=d&density=undefined&recession=false
 
