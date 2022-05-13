@@ -28,6 +28,7 @@ Replace the X's in the following URL with the associated inputs below:
 
 ### Outputs
 A nicely JSON string will be returned with the following fields...\
+\
 • The values of all of the above inputs in "**fields**".\
 • A list of field names which had invalid input in "**invalid_fields**." These must be
     corrected in order to run the neural network on the input. Empty list implies no input errors.\
@@ -35,6 +36,6 @@ A nicely JSON string will be returned with the following fields...\
     a "high risk loan", 1 indicates a "low risk loan", and -1 indicates an error processing
     the request.\
 • The output as described above written as a string phrase in "**output_phrase**".\
-\
+
 ##### Example output (corresponding to above example input):
 > {"fields":{"admin":"r","density":"rural","ind_code":"474","jobs":"176","loan_amt":"509000","model":"country","recession":"false","sba_loan_amt":"122160","sba_prop":"0.24","state":"SC","term":"99"},"invalid_fields":[],"output":"1"}
