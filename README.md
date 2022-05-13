@@ -26,7 +26,7 @@ A full deep-dive and analysis of our findings can be seen in our formal, NeurIPS
 ### 🤖  API
 > https://matthewholsten.pythonanywhere.com/
 
-### 📊  Machine Learning Model
+### 📊  Machine Learning Code
 > [Python Notebook on Google Colab (.ipynb)](https://colab.research.google.com/drive/1HVOS9IFwqiPWZ4yIHXls7a4HiP-RmNCM?usp=sharing)
 
 ### 📑  Report
