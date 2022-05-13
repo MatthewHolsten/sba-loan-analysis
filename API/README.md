@@ -36,6 +36,5 @@ A nicely JSON string will be returned with the following fields...\
     the request.\
 • The output as described above written as a string phrase in "**output_phrase**".\
 \
-##### Example output:
-(corresponding to above example input)
+##### Example output (corresponding to above example input):
 > {"fields":{"admin":"r","density":"rural","ind_code":"474","jobs":"176","loan_amt":"509000","model":"country","recession":"false","sba_loan_amt":"122160","sba_prop":"0.24","state":"SC","term":"99"},"invalid_fields":[],"output":"1"}
