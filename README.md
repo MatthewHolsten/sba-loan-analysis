@@ -7,7 +7,7 @@ CS-135: Intro to Machine Learning
 
 
 # Description
-The U.S. Small Business Administration ("SBA") has created a large dataset of SBA-guaranteed loans stretching back almost 60 years which documents the information and outcomes of loans. Due to the nature of the SBA and the successes they've helped create, there is an ever-growing desire to have additional risk information for predicting whether or not a borrowing-business will default on their loan. 
+The U.S. Small Business Administration ("SBA") has created a dataset of nearly one million SBA-guaranteed loans stretching back almost 60 years which documents the information and outcomes of loans. Due to the nature of the SBA and the successes they've helped create, there is an ever-growing desire to have additional risk information for predicting whether or not a borrowing-business will default on their loan. 
 \
 \
 To address this desire, we first employed a __feature analysis__ to discover which aspects of SBA-backed loans contribute most to the risk of defaulting. Then, we confirmed our analysis with two __classification__ methods used to predict the outcomes of loans before they are granted: one linear, __logistic regression model__ and one non-linear, __feed-forward neural network__. Lastly, we created a free, open source [API](https://matthewholsten.pythonanywhere.com/) and [web application](https://matthewholsten.github.io/sba-loan-risk-analysis-webapp/) to deploy our machine learning models.\
